@@ -1,9 +1,9 @@
 body {
   
   background-color: #0a0c1b;
-  background-size: cover;
+  
   font-family: Sans-Serif;
-  height: 1000px;
+  
 }
 .bigbox { 
   display:flex;
