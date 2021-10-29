@@ -13,9 +13,7 @@ body {
   align-items: center;
   
 }
- .img {
-        background-image: url(images/image-header-desktop.jpg);  
-    }
+
 @media (max-width: 767px) {
     .box {
         
@@ -27,6 +25,7 @@ body {
         max-width: 300px;
         }
     .img {
+        background-image: url(images/image-header-desktop.jpg);  
         grid-column: 1 / 1;
         grid-row: 1 / 1;
         width: 100%;
@@ -51,6 +50,7 @@ body {
         background-color: #1c1938;
         }
         .img {
+        background-image: url(images/image-header-desktop.jpg);  
         grid-column: 2 / 3;
         grid-row: 1 / 2;
         width: 100%;
